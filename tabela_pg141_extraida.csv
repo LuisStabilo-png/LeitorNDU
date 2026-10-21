@@ -1,0 +1,26 @@
+﻿0;1;2;3;4;5;6;7;8
+;;USCS;;;FAT;EC;São;Paulo
+;;INSPER;;;;;ITA;
+;;;GRUPO;;;;;
+DIA;HORÁRIO;LOCAL;;EQUIPE Mandante;PL;ACA;R;EQUIPE Visitante
+21/02;15h;Baetão;B;EACH USP;02;X;01;CAAP UFABC
+;;;Parcia;is: 25x18 / 23x25 / 25x19;;;;
+22/02;08h;Baetão;B;Medicina Santa Casa;02;X;01;FATEC São Paulo
+;;;Parcia;is: 26x24 / 12x25 / 25x16;;;;
+22/02;13h15min;Baetão;A;FEA USP;00;X;03;USCS
+;;;Parcia;is: 20x25 / 19x25 / 16x25;;;;
+01/03;13h15min;Baetão;A;Direito USP;01;X;02;Tecnologia Mackenzie
+;;;Parcia;is: 25x15 / 25x27 / 22x25;;;;
+01/03;15h;Baetão;B;LEP Mackenzie;02;X;01;ITA
+;;;Parcia;is: 20x25 / 25x16 / 25x23;;;;
+08/03;17h;Espéria;A;INSPER;03;X;00;FEA USP
+;;;Parcia;is: 25x19 / 25x11 / 25x12;;;;
+08/03;18h45min;Espéria;A;Tecnologia Mackenzie;02;X;01;ESPM
+;;;Parcia;is: 25x20 / 25x22 / 24x26;;;;
+14/03;09h45min;Baetão;B;FATEC São Paulo;;X;;CAAP UFABC
+14/03;13h15min;Baetão;B;ITA;;X;;Medicina Santa Casa
+14/03;15h;Baetão;B;LEP Mackenzie;;X;;EACH USP
+14/03;20h15min;Baetão;A;USCS;;X;;Direito USP
+;;;A;INSPER;;X;;Tecnologia Mackenzie
+;;;A;USCS;;X;;ESPM
+;;;A;Direito USP;;X;;FEA USP
